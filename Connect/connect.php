@@ -2,7 +2,7 @@
 
 class Database_ql_diem
 {
-	private static $hostname = "localhost";
+	private static $hostname = "localhost"; 
 	private static $username = "root";
 	private static $password = "";
 	private static $database ="quan_ly_diem";

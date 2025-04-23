@@ -37,7 +37,7 @@
           <li class="breadcrumb-item">
             <a href="#">Bảng điểu kiểm</a>
           </li>
-          <li class="breadcrumb-item active">Danh sách sinh viên</li>
+          <li class="breadcrumb-item active">Danh sách sinh viên đẹp trai xinh gái</li>
         </ol>
 
         <!-- DataTables Example -->

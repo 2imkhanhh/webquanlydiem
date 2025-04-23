@@ -8,6 +8,7 @@ else
 {
 	$controllers = NULL;
 }
+echo "Current Controller: " . $controllers;
 switch ($controllers) {
 	case 'login':
 		require_once 'Controllers/Login/dangnhap.php';

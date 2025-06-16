@@ -23,5 +23,5 @@ switch ($controllers) {
 		require_once 'Controllers/Login/dangnhap.php';
 		break;
 }
-/*GEM2 chinh goc*/
+/*GEM2*/
  ?>
